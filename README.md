@@ -8,3 +8,9 @@ O objetivo deste projeto é criar uma landing page visualmente atraente e funcio
 - HTML5
 - CSS3.
 - JavaScript
+
+#### Landing page no desktop
+![desktop](https://github.com/user-attachments/assets/4e618022-2507-4d8a-957a-6fcb4bc636a7)
+
+ ### Landing page no smartphone 
+![smartphone](https://github.com/user-attachments/assets/312be7cd-e9ea-4e98-838d-fbb18fbd88c8)
